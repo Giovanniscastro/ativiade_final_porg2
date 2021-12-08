@@ -1,0 +1,31 @@
+
+body{
+    margin:0;
+}
+h1{
+    background-color:#836FFF;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 0 auto;
+    border:0;
+    padding:0 auto;
+    padding-bottom:2%;
+    padding-top: 2%;
+}
+table{
+    border: double;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+th{
+    border-bottom: solid;
+    margin: 20px;
+}
+td{
+    border-left: solid;
+    border-bottom: solid;
+    padding: 5px;
+    padding-left: 10px;
+}
